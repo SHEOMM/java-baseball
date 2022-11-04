@@ -30,7 +30,7 @@
 
 1. **ui**
    - InputView
-       + getBaseballNumber
+       + getBaseballInput
        + sendInput
    - HintView
        + printHint
